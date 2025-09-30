@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Melvyn Here. A 18 yr old kid with some basics of language from Kerala? That's who i am! </h2>
+<h2 align="left">Hi 👋! Melvyn Here. A 18 yr old geek with some basics of language from Kerala,India. </h2>
 
 ###
 
